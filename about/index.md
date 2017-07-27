@@ -6,7 +6,7 @@ date: 2017-07-26
 comments: false
 ---
 
-<center>Full stack junior developer, trained at Makers Academy</center>
+<center>Full stack junior developer, trained at [Makers Academy](makersacademy.com)</center>
 
 ## Features
 * Minimal, you can focus on your content

@@ -6,7 +6,7 @@ date: 2017-07-26
 comments: false
 ---
 
-<center>Full stack junior developer, trained at [Makers Academy](http://makersacademy.com)</center>
+<center>Full stack junior developer, trained at <a href="http://makersacademy.com">Makers Academy</a></center>
 
 ## Skills
 * Ruby
@@ -15,4 +15,9 @@ comments: false
 * AngularJS
 * TDD and Agile methodology
 
-## Projects
+## Education
+* Makers Academy - July 2017 Remote Cohort
+* University of Exeter - MA Ethics, Religion & Society, 2012
+* University of Durham - BA(Hons) Theology & Religion, 2009
+
+<center><sub>Logo by <a href="http://www.freepik.com/harryarts">Harryarts</a></sub></center>

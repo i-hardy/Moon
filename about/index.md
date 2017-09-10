@@ -12,7 +12,8 @@ comments: false
 * Ruby
 * Rack frameworks including Sinatra and Rails
 * JavaScript
-* AngularJS
+* Node.js, React, jQuery, and building frameworks in pure JS
+* HTML, CSS, SASS
 * TDD and Agile methodology
 
 ## Education

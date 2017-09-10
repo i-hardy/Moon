@@ -232,3 +232,7 @@
   -webkit-animation-name: rotateIn;
   animation-name: rotateIn;
 }
+
+.rotateIn:hover {
+  animation-play-state: running;
+}
